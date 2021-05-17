@@ -1,0 +1,9 @@
+Package: Randomness
+Version: 0.2
+Date: 2021-05-11
+Title: Montpellier Biostat (MBS) Randomness
+Description: We try to play with random variables in R
+Author: MBS <charles-elie.rabier@umontpellier.fr>
+Maintainer: MBS <charles-elie.rabier@umontpellier.fr>
+RoxygenNote: 7.1.1.9001
+License: GPL-3
